@@ -5,6 +5,6 @@ This was pitched to me as a coding challenge for a job interview and I wanted to
 
 
 v0.1:
-Currently, it only solves for functions set in the code to be used in IDEs, but will expand functionality to be used through command line.
+Currently, it only solves for functions based off prompt in command line, but will expand functionality to be used through command line.
 Also, currently has limited edge-case capabilities.
 It's very late.
